@@ -98,7 +98,7 @@ a:focus{ outline:none !important;}
 
 .baner										{ width:100%; background:url(../images/image_1.png) no-repeat center 75px; padding:100px 0 0px 0; min-height:750px; background-size:cover;}
 .baner-top									{ width:1270px; margin:0 auto; position:relative;}
-.pink-bar3									{ width:527px; position:absolute; top:490px; left:-48px; background:url(../images/pink-bg.png) repeat left top; border-radius:0px 5px 5px 0px; padding:4px 0 0 0;}
+.pink-bar3									{ width:527px; position:absolute; top:610px; background:url(../images/pink-bg.png) repeat left top; border-radius:0px 5px 5px 0px; padding:4px 0 0 0;}
 .pink-bar3 span								{font-family: 'mergeregular'; font-size:24px; color:#FFF; text-align:center; display:block; padding:2px 0 4px 0;}
 .pink-bar3 h6								{font-family: 'mergeregular'; font-size:25px; color:#f0d000; text-align:left; font-weight:normal; padding:0 0px 6px 18px;}
 .baner-content								{ float:right; display:inline-block; width:525px;}
@@ -142,7 +142,7 @@ a:focus{ outline:none !important;}
 .parents-top								{ width:1270px; margin:0 auto; position:relative; min-height:600px;}
 .parents-content							{ width:384px; display:inline-block; padding:84px 0 0 0;}
 .parents-content p							{font-family: 'mergeregular'; font-size:32px; color:#d4ae01; line-height:35px; text-align:center;}
-.pink-bar									{ width:660px; position:absolute; bottom:86px; right:-48px; background:url(../images/pink-bg.png) repeat left top; border-radius:8px 0 0 8px; padding:4px 0 0 0;}
+.pink-bar									{ width:660px; position:absolute; top:3000px; right: 0; background:url(../images/pink-bg.png) repeat left top; border-radius:8px 0 0 8px; padding:4px 0 0 0;}
 .pink-bar span								{font-family: 'mergeregular'; font-size:28px; color:#FFF; padding:8px 0 4px 23px;}
 .pink-bar h6								{font-family: 'mergeregular'; font-size:25px; color:#f0d000; text-align:right; font-weight:normal; padding:0 18px 6px 0;}
 /* ---------------------------------------------------------*/
@@ -163,7 +163,7 @@ a:focus{ outline:none !important;}
 .devices-content small						{ display:block; margin:0 auto 10px;}
 .devices-content small img					{ display:block; margin:0 auto;}
 .devices-content p							{font-family: 'mergeregular'; font-size:26px; color:#e26d64; text-align:center; line-height:30px;}
-.pink-bar2									{ width:675px; position:absolute; bottom:86px; right:-48px; background:url(../images/pink-bg.png) repeat left top; border-radius:5px 0 0 5px; padding:4px 0 0 0;}
+.pink-bar2									{ width:675px; position:absolute; top: 4230px; right: 0; background:url(../images/pink-bg.png) repeat left top; border-radius:5px 0 0 5px; padding:4px 0 0 0;}
 .pink-bar2 span								{font-family: 'mergeregular'; font-size:26px; color:#FFF; padding:8px 0 4px 23px;}
 .pink-bar2 h6								{font-family: 'mergeregular'; font-size:25px; color:#f0d000; text-align:right; font-weight:normal; padding:0 18px 6px 0;}
 

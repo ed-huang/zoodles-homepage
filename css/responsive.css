@@ -5,7 +5,7 @@
 .baner-top						{ width:1004px; margin:0 auto;}
 .parents-top					{ width:1004px; min-height:451px;}
 .devices-top					{ width:1004px; margin:0 auto; min-height:452px;}
-.pink-bar3						{ display:block; left:0;}
+.pink-bar3						{ display:block; left:0; top: 620px;}
 .zoodles-left					{ width:450px; margin:2px 0 0 4px;}
 .zoodles-left img				{ width:100%; height:auto;}
 .zoodles-rght					{ width:524px; padding:141px 16px 0 0;}
@@ -18,8 +18,8 @@
 .childerns-rght					{ width:564px;}
 .logo2							{ width:310px;}
 .logo2 a img					{ width:100%; height:auto;}
-.pink-bar2						{ display:block; right:0;}
-.pink-bar						{ display:block; right:0px;}
+.pink-bar2						{ display:block; right:0; top: 3670px;}
+.pink-bar						{ display:block; right:0px; top: 2630px;}
 .nav ul							{ margin:0 0 0 59px;}
 	
 }
@@ -57,11 +57,11 @@
 .devices-content small			{ width:184px;}
 .devices-content				{ width:469px; padding:43px 0 0;}
 .devices-content p				{ font-size:21px; line-height:25px; padding:17px 0 0 0;}
-.pink-bar2						{ display:block; right:0; width:627px;}
+.pink-bar2						{ display:block; right:0; width:627px; top: 2970px;}
 .pink-bar2 span					{ font-size:24px; display:block; text-align:center; padding:0px 0 4px 23px;}
 .pink-bar2 h6					{ font-size:20px;}
 .devices-content small img		{ width:100%; height:auto;}
-.pink-bar3						{ display:block; left:0; bottom:-105px;}
+.pink-bar3						{ display:block; left:0; top:550px;}
 .zoodles-block					{ min-height:367px;}
 .zoodles-left					{ width:289px; margin:2px 0 0 4px;}
 .zoodles-left img				{ width:100%; height:auto;}
@@ -81,7 +81,7 @@
 .childerns-rght p				{ font-size:22px;}
 .logo2							{ width:230px; margin:0 0 0 14px;}
 .logo2 a img					{ width:100%; height:auto;}
-.pink-bar						{ display:block; right:0px;}	
+.pink-bar						{ display:block; right:0px; top: 2080px;}	
 	
 }
 
@@ -123,11 +123,11 @@
 .devices-content small			{ width:125px;}
 .devices-content				{ width:356px; padding:43px 0 0;}
 .devices-content p				{ font-size:16px; line-height:18px; padding:17px 0 0 0;}
-.pink-bar2						{ display:block; right:0; width:580px;}
+.pink-bar2						{ display:block; right:0; width:580px; top: 2800px;}
 .pink-bar2 span					{ font-size:22px; display:block; text-align:center; padding:0px 0 4px 23px;}
 .pink-bar2 h6					{ font-size:20px;}
 .devices-content small img		{ width:100%; height:auto;}
-.pink-bar3						{ display:block; left:0; bottom:-105px;}
+.pink-bar3						{ display:block; left:0; top: 460px;}
 .zoodles-block					{ min-height:276px;}
 .zoodles-left					{ width:188px; margin:2px 0 0 4px;}
 .zoodles-left img				{ width:100%; height:auto;}
@@ -147,7 +147,7 @@
 .childerns-rght p				{ font-size:22px;}
 .logo2							{ width:230px; margin:0 auto; float:none; display:block;}
 .logo2 a img					{ width:100%; height:auto;}
-.pink-bar						{ display:block; right:0px;}
+.pink-bar						{ display:block; right:0px; top: 1690px;}
 .footer-nav						{ width:530px; margin:0 auto;}	
 	
 }
@@ -192,11 +192,11 @@
 .devices-content small			{ width:125px;}
 .devices-content				{ width:356px; padding:43px 0 0;}
 .devices-content p				{ font-size:16px; line-height:18px; padding:17px 0 0 0;}
-.pink-bar2						{ display:block; right:0; width:460px;}
+.pink-bar2						{ display:block; right:0; width:460px; top: 2630px;}
 .pink-bar2 span					{ font-size:17px; display:block; text-align:center; padding:0px 0 4px 23px;}
 .pink-bar2 h6					{ font-size:17px;}
 .devices-content small img		{ width:100%; height:auto;}
-.pink-bar3						{ display:block; left:0; bottom:-105px; width:460px;}
+.pink-bar3						{ display:block; left:0; top: 360px; width:460px;}
 .pink-bar3 span					{ font-size:21px;}
 .pink-bar3 h6					{ font-size:21px;}
 .zoodles-block					{ min-height:351px;}
@@ -218,7 +218,7 @@
 .childerns-rght p				{ font-size:22px;}
 .logo2							{ width:230px; margin:0 auto; float:none; display:block;}
 .logo2 a img					{ width:100%; height:auto;}
-.pink-bar						{ display:block; right:0px; width:460px;}
+.pink-bar						{ display:block; right:0px; width:460px; top: 1490px;}
 .pink-bar span					{ font-size:22px;}
 .pink-bar h6					{ font-size:23px;}
 .footer-nav						{ width:460px; margin:0 auto;}
@@ -274,11 +274,11 @@
 .devices-content small			{ width:105px;}
 .devices-content				{ width:262px; padding:43px 0 0;}
 .devices-content p				{ font-size:13px; line-height:17px; padding:17px 0 0 0;}
-.pink-bar2						{ display:block; right:0; bottom:68px; width:300px;}
+.pink-bar2						{ display:block; right:0; width:300px; top: 2360px;}
 .pink-bar2 span					{ font-size:11px; display:block; text-align:center; padding:0px 0 4px 23px;}
 .pink-bar2 h6					{ font-size:12px;}
 .devices-content small img		{ width:100%; height:auto;}
-.pink-bar3						{ display:block; left:0; bottom:-82px; width:300px;}
+.pink-bar3						{ display:block; left:0; top:320px; width:300px;}
 .pink-bar3 span					{ font-size:14px;}
 .pink-bar3 h6					{ font-size:17px;}
 .zoodles-block					{ min-height:372px;}
@@ -301,7 +301,7 @@
 .childerns-rght p				{ font-size:22px;}
 .logo2							{ width:230px; margin:0 auto; float:none; display:block;}
 .logo2 a img					{ width:100%; height:auto;}
-.pink-bar						{ display:block; right:0px; bottom:50px; width:300px;}
+.pink-bar						{ display:block; right:0px; top: 1420px; width:300px;}
 .pink-bar span					{ font-size:14px;}
 .pink-bar h6					{ font-size:20px;}
 .footer-nav						{ width:300px; margin:0 auto;}
