@@ -247,14 +247,14 @@
 .nav ul li a:hover, .nav ul li a.active{ border-bottom: 5px solid #017eff;}
 .header-rght					{ padding:4px 0 0; float:none; display:block; margin:0 auto; width:100%;}
 .header-rght a					{ font-size:17px; text-align:center; display:block;}
-.baner							{ min-height:402px; padding:19px 0 0; background-position:-166px 0;}
+.baner							{ min-height:460px; padding:19px 0 0; background-position:-166px 0;}
 .baner-top						{ width:300px; margin:0 auto;}
 .baner-content					{ margin:0 auto; width:267px;}
 .baner-content h3				{ font-size:18px; text-align:center;}
 .baner-content .get				{ font-size:18px; padding:7px 0; width:252px;}
 .baner-content .watch			{ width:254px;}
 .baner-content .watch em		{ font-size:18px; margin:0 0 0 48px; padding:14px 0 6px 49px;}
-.baner-content span				{ margin:0 auto 15px;}
+.baner-content span				{ margin:0 auto 75px;}
 .baner-content span img			{ width:115px; height:auto;}
 .baner-content small			{ padding:0 0 4px; font-size:20px;}
 .baner-content big				{ font-size:16px;}
@@ -278,7 +278,7 @@
 .pink-bar2 span					{ font-size:11px; display:block; text-align:center; padding:0px 0 4px 23px;}
 .pink-bar2 h6					{ font-size:12px;}
 .devices-content small img		{ width:100%; height:auto;}
-.pink-bar3						{ display:block; left:0; top:320px; width:300px;}
+.pink-bar3						{ display:block; left:0; top:380px; width:300px;}
 .pink-bar3 span					{ font-size:14px;}
 .pink-bar3 h6					{ font-size:17px;}
 .zoodles-block					{ min-height:372px;}
